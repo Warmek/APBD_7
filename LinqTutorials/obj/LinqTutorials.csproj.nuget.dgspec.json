@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\s26225\\Downloads\\LinqCwiczenia\\LinqTutorials\\LinqTutorials.csproj": {}
+    "C:\\Users\\barte\\source\\repos\\APBD_7\\LinqTutorials\\LinqTutorials.csproj": {}
   },
   "projects": {
-    "C:\\Users\\s26225\\Downloads\\LinqCwiczenia\\LinqTutorials\\LinqTutorials.csproj": {
+    "C:\\Users\\barte\\source\\repos\\APBD_7\\LinqTutorials\\LinqTutorials.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\s26225\\Downloads\\LinqCwiczenia\\LinqTutorials\\LinqTutorials.csproj",
+        "projectUniqueName": "C:\\Users\\barte\\source\\repos\\APBD_7\\LinqTutorials\\LinqTutorials.csproj",
         "projectName": "LinqTutorials",
-        "projectPath": "C:\\Users\\s26225\\Downloads\\LinqCwiczenia\\LinqTutorials\\LinqTutorials.csproj",
-        "packagesPath": "C:\\Users\\s26225\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\s26225\\Downloads\\LinqCwiczenia\\LinqTutorials\\obj\\",
+        "projectPath": "C:\\Users\\barte\\source\\repos\\APBD_7\\LinqTutorials\\LinqTutorials.csproj",
+        "packagesPath": "C:\\Users\\barte\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\barte\\Source\\Repos\\APBD_7\\LinqTutorials\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\s26225\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\barte\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -34,6 +34,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -73,7 +78,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

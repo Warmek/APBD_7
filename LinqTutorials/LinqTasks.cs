@@ -300,7 +300,7 @@ namespace LinqTutorials
         /// </summary>
         public static IEnumerable<Emp> Task12()
         {
-            IEnumerable<Emp> result = null;
+            IEnumerable<Emp> result = Emps.GetEmpsWithSubordinates();
             return result;
         }
 
@@ -313,8 +313,8 @@ namespace LinqTutorials
         /// </summary>
         public static int Task13(int[] arr)
         {
-            int result = 0;
-            //result=
+            int result = -1;
+            result = arr.GroupBy(n => n).OrderBy(n => n.Count()).Select(n => n.Key).FirstOrDefault();
             return result;
         }
 
@@ -325,7 +325,12 @@ namespace LinqTutorials
         public static IEnumerable<Dept> Task14()
         {
             IEnumerable<Dept> result = null;
-            //result =
+                result = Emps.Join(Depts, emp => emp.Deptno, dept => dept.Deptno, (emp, dept) => new { emp, dept })
+                .GroupBy(x => x.dept)
+                .Where(x => (x.Count() == 0 || x.Count() == 5))
+                .Select(x => x.Key)
+                .OrderBy(x => x.Dname)
+                .ToList();
             return result;
         }
 
@@ -336,20 +341,25 @@ namespace LinqTutorials
         ///     HAVING COUNT(*)>2
         ///     ORDER BY COUNT(*) DESC;
         /// </summary>
-        public static IEnumerable<Dept> Task15()
+        public static IEnumerable<Object> Task15()
         {
-            IEnumerable<Dept> result = null;
-            //result =
+            var result = Emps.Where(x => x.Job.Contains('A'))
+                .GroupBy(x => x.Job)
+                .Where(x => x.Count() > 2)
+                .OrderByDescending(x => x.Count())
+                .Select(g => new { Praca = g.Key });
             return result;
         }
 
         /// <summary>
         ///     SELECT * FROM Emps, Depts;
         /// </summary>
-        public static IEnumerable<Dept> Task16()
+        public static IEnumerable<Object> Task16()
         {
-            IEnumerable<Dept> result = null;
-            //result =
+            IEnumerable<Object> result = null;
+            result = from e in Emps
+                     from d in Depts
+                     select new { e, d };
             return result;
         }
     }

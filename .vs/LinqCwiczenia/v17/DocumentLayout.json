@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\barte\\source\\repos\\APBD_7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6994753-4FA1-4971-8CE8-BB73565ACDAC}|LinqTutorials\\LinqTutorials.csproj|c:\\users\\barte\\source\\repos\\apbd_7\\linqtutorials\\linqtasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6994753-4FA1-4971-8CE8-BB73565ACDAC}|LinqTutorials\\LinqTutorials.csproj|solutionrelative:linqtutorials\\linqtasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6994753-4FA1-4971-8CE8-BB73565ACDAC}|LinqTutorials\\LinqTutorials.csproj|c:\\users\\barte\\source\\repos\\apbd_7\\linqtutorials\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6994753-4FA1-4971-8CE8-BB73565ACDAC}|LinqTutorials\\LinqTutorials.csproj|solutionrelative:linqtutorials\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6994753-4FA1-4971-8CE8-BB73565ACDAC}|LinqTutorials\\LinqTutorials.csproj|c:\\users\\barte\\source\\repos\\apbd_7\\linqtutorials\\models\\emp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6994753-4FA1-4971-8CE8-BB73565ACDAC}|LinqTutorials\\LinqTutorials.csproj|solutionrelative:linqtutorials\\models\\emp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Emp.cs",
+              "DocumentMoniker": "C:\\Users\\barte\\source\\repos\\APBD_7\\LinqTutorials\\Models\\Emp.cs",
+              "RelativeDocumentMoniker": "LinqTutorials\\Models\\Emp.cs",
+              "ToolTip": "C:\\Users\\barte\\source\\repos\\APBD_7\\LinqTutorials\\Models\\Emp.cs",
+              "RelativeToolTip": "LinqTutorials\\Models\\Emp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T12:43:37.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LinqTasks.cs",
+              "DocumentMoniker": "C:\\Users\\barte\\source\\repos\\APBD_7\\LinqTutorials\\LinqTasks.cs",
+              "RelativeDocumentMoniker": "LinqTutorials\\LinqTasks.cs",
+              "ToolTip": "C:\\Users\\barte\\source\\repos\\APBD_7\\LinqTutorials\\LinqTasks.cs",
+              "RelativeToolTip": "LinqTutorials\\LinqTasks.cs",
+              "ViewState": "AQIAAEwBAAAAAAAAAAArwGkBAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T12:43:37.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\barte\\source\\repos\\APBD_7\\LinqTutorials\\Program.cs",
+              "RelativeDocumentMoniker": "LinqTutorials\\Program.cs",
+              "ToolTip": "C:\\Users\\barte\\source\\repos\\APBD_7\\LinqTutorials\\Program.cs",
+              "RelativeToolTip": "LinqTutorials\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T12:43:37.405Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LinqTutorials")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+13c85d6a04e983e229433f59810b797dc0d9ce52")]
 [assembly: System.Reflection.AssemblyProductAttribute("LinqTutorials")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LinqTutorials")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

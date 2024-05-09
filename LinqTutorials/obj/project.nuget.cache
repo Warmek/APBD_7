@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "LtK5R0MFz1ftz99MeJFHVMMuQzPILxqJQ7jOrxXwkqtdtE2zk1Dl4LjNwKOon5Z4vwKEz2biS1tY5Riy6e44Hg==",
+  "dgSpecHash": "lklgKhZn/0hgf3mjG63IGGz3/uepId5bzH+fUv3E6QyG59S0VOOt78UQxO8LsLO/LOceXSnwBnXP+40o0fDmbw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\s26225\\Downloads\\LinqCwiczenia\\LinqTutorials\\LinqTutorials.csproj",
+  "projectFilePath": "C:\\Users\\barte\\source\\repos\\APBD_7\\LinqTutorials\\LinqTutorials.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\s26225\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\s26225\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\s26225\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\s26225\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+    "C:\\Users\\barte\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\barte\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\barte\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\barte\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
   ],
   "logs": []
 }

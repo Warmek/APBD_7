@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 
 namespace LinqTutorials
 {
@@ -6,8 +7,9 @@ namespace LinqTutorials
     {
         static void Main(string[] args)
         {
-            var t = LinqTasks.Task1();
-
+            var t = LinqTasks.Task16();
+            
+            Console.WriteLine(t);
         }
     }
 }
